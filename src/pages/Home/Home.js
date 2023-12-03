@@ -5,15 +5,15 @@ import hashtag from '../../images/Celebrations(Bg) - hashtag.png'
 
 export const Home = (props) => {
     const navigate = useNavigate()
-    // useEffect(() => {
-    //     let timeOut = setTimeout(() => {
-    //         navigate("/registration")
-    //     }, 3000);
-    //     return () => {
-    //         if (timeOut)
-    //             clearTimeout(timeOut)
-    //     }
-    // }, [])
+    useEffect(() => {
+        let timeOut = setTimeout(() => {
+            navigate("/registration")
+        }, 3000);
+        return () => {
+            if (timeOut)
+                clearTimeout(timeOut)
+        }
+    }, [])
     return (
         <div className='mainpage d-flex text-center justify-content-center align-items-center' >
             <div>
