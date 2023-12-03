@@ -11,7 +11,7 @@ function App() {
   const path = useLocation().pathname
 
   return (
-    <div className="App ">
+    <div className="App " style={{height:"100vh "}}>
       {
         path !== "/" &&
         <Header />

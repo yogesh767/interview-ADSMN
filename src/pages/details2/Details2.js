@@ -20,7 +20,7 @@ import { useLocation, useNavigate } from 'react-router-dom';
 import OpenAI from 'openai';
 function Details2(props) {
     const state = useLocation().state;
-    const apiKwy = "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"
+    const apiKwy = process.env.openaiKey
     const openai = new OpenAI({
         apiKey: apiKwy, // defaults to process.env["OPENAI_API_KEY"]
         dangerouslyAllowBrowser: true
