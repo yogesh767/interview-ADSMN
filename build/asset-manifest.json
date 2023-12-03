@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.65ba890b.css",
+    "main.js": "/static/js/main.7a8a712f.js",
+    "static/media/BG.jpg": "/static/media/BG.b8a797165a852306c3f4.jpg",
+    "static/media/Celebrations(Bg) - hashtag.png": "/static/media/Celebrations(Bg) - hashtag.28cfb9bd6af27cad6b81.png",
+    "static/media/Headphone.png": "/static/media/Headphone.82d8fc13929342da6d73.png",
+    "static/media/Cap&Gift.png": "/static/media/Cap&Gift.1af99e9352a85886414f.png",
+    "static/media/Gibson-Regular.ttf": "/static/media/Gibson-Regular.b6d02aea7dd75029f4fb.ttf",
+    "static/media/DairyMilkFont-Medium.otf": "/static/media/DairyMilkFont-Medium.085bb8458334c1e76b09.otf",
+    "static/media/Desi.png": "/static/media/Desi.662e4170bdb12dcefda8.png",
+    "static/media/Balloon2.png": "/static/media/Balloon2.b6d7fbce43c13e00bd74.png",
+    "static/media/2d logo.png": "/static/media/2d logo.a905322f555357343def.png",
+    "static/media/Rap.png": "/static/media/Rap.99e951de4f10ca19a870.png",
+    "static/media/EDM.png": "/static/media/EDM.7f5d90f8cf568be2e4f5.png",
+    "static/media/Purple Music Tone.png": "/static/media/Purple Music Tone.6b07beba364334308d71.png",
+    "static/media/Female.png": "/static/media/Female.e9dfc1166cc54460d3b9.png",
+    "static/media/Male.png": "/static/media/Male.9560f7bd9bf638b997a5.png",
+    "static/media/Rock.png": "/static/media/Rock.d4af59c5ef50d784cb4f.png",
+    "static/media/Balloon.png": "/static/media/Balloon.64e36f22c57a269d0860.png",
+    "static/media/Funny.png": "/static/media/Funny.716668458467d6de9ede.png",
+    "static/media/Romantic.png": "/static/media/Romantic.5f2bd469514cb91f15df.png",
+    "static/media/Pop.png": "/static/media/Pop.dc069f328c325a9d35cb.png",
+    "index.html": "/index.html",
+    "main.65ba890b.css.map": "/static/css/main.65ba890b.css.map",
+    "main.7a8a712f.js.map": "/static/js/main.7a8a712f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65ba890b.css",
+    "static/js/main.7a8a712f.js"
+  ]
+}
