@@ -2,6 +2,7 @@ import React from 'react';
 import './Home.css'
 import { useEffect } from 'react';
 import { useNavigate } from "react-router-dom";
+import hashtag from '../../images/Celebrations(Bg) - hashtag.png'
 
 export const Home = (props) => {
     const navigate= useNavigate()
@@ -15,8 +16,7 @@ export const Home = (props) => {
         }
     }, [])
     return (
-        <div className='mainpage' >
-
+        <div className='homepage h-100' >
         </div>
     );
 }
